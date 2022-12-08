@@ -1,0 +1,4 @@
+﻿  server.c
+C:\Users\MH7B\Desktop\c course\pay\Server\server.c(144,82): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+C:\Users\MH7B\Desktop\c course\pay\Server\server.c(144,71): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+  pay.vcxproj -> C:\Users\MH7B\Desktop\c course\pay\x64\Debug\pay.exe
